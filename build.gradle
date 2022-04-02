@@ -23,7 +23,7 @@ repositories {
 
 dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT'
-    compileOnly 'snw:rfm-api:1.3.4'
+    compileOnly 'snw:rfm-api:1.5.0'
 }
 
 def targetJavaVersion = 8
